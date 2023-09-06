@@ -13,7 +13,7 @@ Web Application that enables to visualize SNS trends for the specified location 
 
 ## Presentation Slides Link
 
-https://docs.google.com/presentation/d/1JRWbqXACn8tuXmkrFzmvycM8rCw7PPTB/edit?usp=drive_link&ouid=117168961558640974664&rtpof=true&sd=true
+https://docs.google.com/presentation/d/1JRWbqXACn8tuXmkrFzmvycM8rCw7PPTB/edit?usp=sharing&ouid=117168961558640974664&rtpof=true&sd=true
 
 ## Scholars Day Poster
 
