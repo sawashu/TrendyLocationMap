@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Trendy Location Map</title>
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=default"></script>
+    <link href="{{ url_for('static', filename='css/site.css') }}" rel="stylesheet"></link>
+  </head>
+  <body>
+    <div id="map"></div>
+
+    <div id="posts"></div>
+
+    <!-- Async script executes immediately and must be after any DOM elements used in callback. -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<!--     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+MAYBE THIS IS NEEDED. CURRENTLY, IT DOES NOT SEEM LIKE SO
+-->
+    <script
+    src="{{ url_for('static', filename='js/geoc.js') }}">
+    </script>
+    <script
+      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDRBTWvi-YH6WfBwbXh5rIWfH6UsGxmSV4&language=en&callback=initMap&v=weekly"
+      async defer
+    ></script>
+  </body>
+</html>
+

@@ -1,0 +1,1 @@
+# trendy_location_map
