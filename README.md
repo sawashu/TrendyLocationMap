@@ -7,9 +7,9 @@ Web Application that enables to visualize SNS trends for the specified location 
 ## Tools/APIs
 
 Flask
-Scrapy
-Google Map Javascript API
-Proxy API
+* Scrapy
+* Google Map Javascript API
+* Proxy API
 
 ## Presentation Slides Link
 
