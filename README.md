@@ -2,7 +2,7 @@
 
 Web Application that enables to visualize SNS trends for the specified location using Google Map.
 
-:warning: ** This software currently does not work because of the update changes in Instagram. 
+:warning: ** This software currently does not work because of the update changes in Instagram. ** 
 
 ## Tools/APIs
 
